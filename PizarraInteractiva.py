@@ -238,14 +238,14 @@ while True:
                     grosorGrande=1
                 if 421<x2<471  and  430<y2<479:
                     grosor=3
-                    grosorPeque=6
-                    grosorMedio=1
+                    grosorPeque=1
+                    grosorMedio=6
                     grosorGrande=1
                 if 471<x2<521  and  430<y2<479:
                     grosor=3
-                    grosorPeque=6
+                    grosorPeque=1
                     grosorMedio=1
-                    grosorGrande=1
+                    grosorGrande=6
 
                 if 521<x2<600 and 376 <y2<480:
                     
